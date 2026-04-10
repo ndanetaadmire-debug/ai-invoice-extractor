@@ -1,0 +1,10 @@
+Bill from: Sparkle Cleaning Services
+Invoice Number: SCS/2026/117
+Invoice date: 28 October 2026
+
+Office cleaning (October)    1 x R3,200.00    R3,200.00
+Window cleaning              4 x R150.00      R600.00
+
+Sub-total: R3,800.00
+VAT: R570.00
+Total incl VAT: R4,370.00

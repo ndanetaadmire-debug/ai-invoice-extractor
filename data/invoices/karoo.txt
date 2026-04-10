@@ -1,0 +1,10 @@
+Karoo Logistics CC — Tax Invoice
+Supplier: Karoo Logistics CC
+VAT No. 4987654321
+Invoice # KL-881
+Date: 03/11/2026
+Due: 03/12/2026
+
+Subtotal excl VAT: R 12 000,00
+VAT @ 15%: R 1 800,00
+Amount due: R 13 800,00

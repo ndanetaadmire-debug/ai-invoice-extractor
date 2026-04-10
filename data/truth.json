@@ -1,0 +1,7 @@
+{
+  "acme.txt": {"supplier_name": "Acme Office Supplies (Pty) Ltd", "supplier_vat_number": "4123456789", "invoice_number": "ACM-2026-0042", "invoice_date": "2026-11-10", "due_date": "2026-12-10", "subtotal": "7000.00", "vat": "1050.00", "total": "8050.00", "lines": 2},
+  "karoo.txt": {"supplier_name": "Karoo Logistics CC", "supplier_vat_number": "4987654321", "invoice_number": "KL-881", "invoice_date": "2026-11-03", "due_date": "2026-12-03", "subtotal": "12000.00", "vat": "1800.00", "total": "13800.00", "lines": 0},
+  "cleaning.txt": {"supplier_name": "Sparkle Cleaning Services", "supplier_vat_number": null, "invoice_number": "SCS/2026/117", "invoice_date": "2026-10-28", "due_date": null, "subtotal": "3800.00", "vat": "570.00", "total": "4370.00", "lines": 2},
+  "hosting.txt": {"supplier_name": "CloudNest Hosting (Pty) Ltd", "supplier_vat_number": "4555012345", "invoice_number": "CN-55821", "invoice_date": "2026-11-01", "due_date": null, "subtotal": "1999.00", "vat": "299.85", "total": "2298.85", "lines": 0},
+  "printing.txt": {"supplier_name": "Jozi Print Hub", "supplier_vat_number": null, "invoice_number": "JPH-3307", "invoice_date": "2026-11-12", "due_date": "2026-11-26", "subtotal": "600.00", "vat": "90.00", "total": "690.00", "lines": 1}
+}

@@ -1,0 +1,10 @@
+Vendor: Jozi Print Hub
+Tax Invoice No: JPH-3307
+Invoice Date: 12/11/2026
+Due date: 26/11/2026
+
+Business cards    500 x R1.20    R600.00
+
+Subtotal: R600.00
+VAT: R90.00
+Balance due: R690.00

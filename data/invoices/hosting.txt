@@ -1,0 +1,9 @@
+From: CloudNest Hosting (Pty) Ltd
+VAT Registration Number: 4555012345
+Invoice No: CN-55821
+Date: 2026-11-01
+Currency: ZAR
+
+Subtotal: R1,999.00
+VAT (15%): R299.85
+Total: R2,298.85

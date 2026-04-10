@@ -1,0 +1,13 @@
+TAX INVOICE
+From: Acme Office Supplies (Pty) Ltd
+VAT Reg No: 4123456789
+Invoice No: ACM-2026-0042
+Invoice Date: 2026-11-10
+Due Date: 2026-12-10
+
+A4 paper box          10 x R450.00     R4,500.00
+Toner cartridge        2 x R1,250.00   R2,500.00
+
+Subtotal: R7,000.00
+VAT (15%): R1,050.00
+Total due: R8,050.00
